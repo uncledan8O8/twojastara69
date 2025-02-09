@@ -9,7 +9,6 @@ git clone https://github.com/uncledan8O8/twojastara69.git<br />
 unzip ~/twojastara69/vpn.zip<br />
 #-------------- HASŁO JAK DO GHOSTA --------------#<br />
 <br />
-#==========================================#<br />
 <br />
 <br />
 <br />
@@ -35,7 +34,6 @@ sudo cp ~/twojastara69/vpn/ustawienia/poland /etc/init.d/<br />
 reboot
 <br />
 <br />
-#==========================================#<br />
 <br />
 <br />
 <br />
