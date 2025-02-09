@@ -7,7 +7,7 @@ sudo apt update && sudo apt upgrade -y<br />
 sudo apt install unzip git<br />
 git clone https://github.com/uncledan8O8/twojastara69.git<br />
 unzip ~/twojastara69/vpn.zip<br />
-#------------------ HASŁO JAK DO GHOSTA ------------------#<br />
+#------------------- HASŁO JAK DO GHOSTA --------------------#<br />
 <br />
 <br />
 <br />
