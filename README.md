@@ -18,7 +18,7 @@ unzip ~/twojastara69/vpn.zip<br />
 <br />
 <br />
 #===========================================#<br />
-#========== USTAWIANIA WIĘC SIĘ SKUP =========#<br />
+#========== USTAWIENIA WIĘC SIĘ SKUP =========#<br />
 #===========================================#<br />
 <br />
 sudo cp ~/twojastara69/vpn/poland/* /etc/openvpn<br />
