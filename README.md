@@ -11,7 +11,6 @@ unzip ~/twojastara69/vpn.zip<br />
 <br />
 <br />
 <br />
-<br />
 #/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\#<br />
 <br />
 <br />
@@ -32,7 +31,6 @@ sudo systemctl start openvpn@poland.service<br />
 sudo service openvpn@poland start<br />
 sudo cp ~/twojastara69/vpn/ustawienia/poland /etc/init.d/<br />
 reboot
-<br />
 <br />
 <br />
 <br />
